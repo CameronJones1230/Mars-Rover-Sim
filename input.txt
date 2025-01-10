@@ -1,0 +1,1 @@
+SchedulingAlgorithim=0 //0=RMS,1=EDF
